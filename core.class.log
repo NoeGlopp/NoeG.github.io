@@ -1,0 +1,585 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: 'EA5150BF85384CCB44F6D1FBC8C16718',
+    participant: undefined
+  },
+  messageTimestamp: 1721671364,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_64ca8b39-de64-4a92-98af-d6bd6588d9c2',
+  keyword: 'key_3715d971-efd3-4135-b2c6-4d3bc3a9ad4f',
+  answer: '!Hola! ☺👋🏻☕Soy el chatbot de Betos Coffee Shop 🧑🏻‍🚀☕¿En qué puedo ayudarte? 😃',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5d7e1d4a8cd25c1d0de7f94cde0d101f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e79bbb34-ab7b-42e6-b10c-fed5420b0ee7',
+  keyword: 'ans_64ca8b39-de64-4a92-98af-d6bd6588d9c2',
+  answer: 'Escribe "Menú" para conocer nuestros productos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c25c1376a9222228c170dd34d3f5c4e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '3B8E7DD399554CCF2900347C654C6007',
+    participant: undefined
+  },
+  messageTimestamp: 1721671367,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menú',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE22BDCAB4726525C6A8BA1A62D1B4A8',
+    participant: undefined
+  },
+  messageTimestamp: 1721671372,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2c1238f-a977-4de6-8207-47f0292c6ca0',
+  keyword: 'key_fb910cc4-a1dd-4876-b1db-f75537548541',
+  answer: 'Elija alguna de estas opciones:\r\n' +
+    'opcion 1 ----- Menu \r\n' +
+    'opcion 2 ----- Hablar con un Asistente\r\n' +
+    'opcion 3 ----- Reservacion para Eventos \r\n' +
+    'opcion 4 ----- Realizar un pedido\r\n' +
+    'opcion 5 ----- salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ecd30b5b0300980bae36ef727cd86f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '9624A025630AADA2ED0697DDB855BEF1',
+    participant: undefined
+  },
+  messageTimestamp: 1721671502,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_64ca8b39-de64-4a92-98af-d6bd6588d9c2',
+  keyword: 'key_3715d971-efd3-4135-b2c6-4d3bc3a9ad4f',
+  answer: '!Hola! ☺👋🏻☕Soy el chatbot de Betos Coffee Shop 🧑🏻‍🚀☕¿En qué puedo ayudarte? 😃',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5d7e1d4a8cd25c1d0de7f94cde0d101f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e79bbb34-ab7b-42e6-b10c-fed5420b0ee7',
+  keyword: 'ans_64ca8b39-de64-4a92-98af-d6bd6588d9c2',
+  answer: 'Escribe "Menú" para conocer nuestros productos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c25c1376a9222228c170dd34d3f5c4e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '516EA34933C01AA3CFBC72A7926E55C1',
+    participant: undefined
+  },
+  messageTimestamp: 1721671509,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2c1238f-a977-4de6-8207-47f0292c6ca0',
+  keyword: 'key_fb910cc4-a1dd-4876-b1db-f75537548541',
+  answer: 'Elija alguna de estas opciones:\r\n' +
+    'opcion 1 ----- Menu \r\n' +
+    'opcion 2 ----- Hablar con un Asistente\r\n' +
+    'opcion 3 ----- Reservacion para Eventos \r\n' +
+    'opcion 4 ----- Realizar un pedido\r\n' +
+    'opcion 5 ----- salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ecd30b5b0300980bae36ef727cd86f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '2DD6BF47968EBDACC8D22942D9B7D1F0',
+    participant: undefined
+  },
+  messageTimestamp: 1721671561,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: '9',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '9',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '5177AAF9AF1E2907AFE78DC72C170B7A',
+    participant: undefined
+  },
+  messageTimestamp: 1721671567,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Café',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Café',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE11F626604FCD4A99459C207D698693',
+    participant: undefined
+  },
+  messageTimestamp: 1721671573,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero café',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero café',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '59A86E9A51E033A21D71505A94EF1712',
+    participant: undefined
+  },
+  messageTimestamp: 1721671578,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '496D294266FC40B8C1591D32F5291C5E',
+    participant: undefined
+  },
+  messageTimestamp: 1721671585,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2c1238f-a977-4de6-8207-47f0292c6ca0',
+  keyword: 'key_fb910cc4-a1dd-4876-b1db-f75537548541',
+  answer: 'Elija alguna de estas opciones:\r\n' +
+    'opcion 1 ----- Menu \r\n' +
+    'opcion 2 ----- Hablar con un Asistente\r\n' +
+    'opcion 3 ----- Reservacion para Eventos \r\n' +
+    'opcion 4 ----- Realizar un pedido\r\n' +
+    'opcion 5 ----- salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ecd30b5b0300980bae36ef727cd86f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '88BF0D8274EBFFC45DECE1F503966C46',
+    participant: undefined
+  },
+  messageTimestamp: 1721671593,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '4ED576E20FE1F0A884E202E906121F21',
+    participant: undefined
+  },
+  messageTimestamp: 1721671604,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '4296BECCDA3EA583A1FFD416EA2B017B',
+    participant: undefined
+  },
+  messageTimestamp: 1721671611,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2c1238f-a977-4de6-8207-47f0292c6ca0',
+  keyword: 'key_fb910cc4-a1dd-4876-b1db-f75537548541',
+  answer: 'Elija alguna de estas opciones:\r\n' +
+    'opcion 1 ----- Menu \r\n' +
+    'opcion 2 ----- Hablar con un Asistente\r\n' +
+    'opcion 3 ----- Reservacion para Eventos \r\n' +
+    'opcion 4 ----- Realizar un pedido\r\n' +
+    'opcion 5 ----- salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ecd30b5b0300980bae36ef727cd86f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: 'B997C0DAEA5125080AB8944525413BEB',
+    participant: undefined
+  },
+  messageTimestamp: 1721671615,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '21A2C803CDF39317C20082DC134D7C53',
+    participant: undefined
+  },
+  messageTimestamp: 1721671624,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '6A67B96569EC6B130525B4EF40667072',
+    participant: undefined
+  },
+  messageTimestamp: 1721671629,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2c1238f-a977-4de6-8207-47f0292c6ca0',
+  keyword: 'key_fb910cc4-a1dd-4876-b1db-f75537548541',
+  answer: 'Elija alguna de estas opciones:\r\n' +
+    'opcion 1 ----- Menu \r\n' +
+    'opcion 2 ----- Hablar con un Asistente\r\n' +
+    'opcion 3 ----- Reservacion para Eventos \r\n' +
+    'opcion 4 ----- Realizar un pedido\r\n' +
+    'opcion 5 ----- salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ecd30b5b0300980bae36ef727cd86f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '0BE1C69F254CCF2CA318B107C75D98EC',
+    participant: undefined
+  },
+  messageTimestamp: 1721671632,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '50372325646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: 'E0F9B36F20B2230BBADB2FE7E4F92CD0',
+    participant: undefined
+  },
+  messageTimestamp: 1721671641,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'me gustaría ordenar:\n\nCafe Americano x 5 - $6.75\n\nTotal: $6.75',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'me gustaría ordenar:\n\nCafe Americano x 5 - $6.75\n\nTotal: $6.75',
+  from: '50372325646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2842ae27-cfaf-4977-a3c0-b7c7c8499a01',
+  keyword: 'key_afda2297-ffd3-4123-8f7d-c168a9744fa8',
+  answer: 'Su orden está siendo procesada',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5134142cce1b1a11ab5f3b1863824cf8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50372325646@s.whatsapp.net',
+    fromMe: false,
+    id: '2EA195E57C0F4820F8A362119D55C7D3',
+    participant: undefined
+  },
+  messageTimestamp: 1721671648,
+  pushName: 'ajmp000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '50372325646'
+}
